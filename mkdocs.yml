@@ -1,0 +1,6 @@
+site_name: 实验文档站点
+site_description: GitHub Pages自动部署实验
+theme: readthedocs
+nav:
+  - 首页: index.md
+  - 单元测试说明: test.md
